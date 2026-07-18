@@ -37,7 +37,7 @@ a:hover { text-decoration:underline;}
  *index
  ******************************************/
 
-#full_bg {width: 100%;background: url(../images/bg.jpg) no-repeat fixed center top #CCCCCC;background-size:cover}
+#full_bg {width: 100%;background: url(../images/bg.jpg) no-repeat fixed center top #ecd8b7}
 .top{background:url("../img/fundos/barra_topo.png") no-repeat scroll center top transparent;background-size:100% auto}
 /* -----------header---------- */ 
 .header_c{margin:0 auto;position:relative;width:1002px}
